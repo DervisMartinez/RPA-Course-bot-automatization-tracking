@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.jpg" alt="RPA UC FACYT Logo" width="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1VqCdyhOvpoUV1iUM6MtLV0LKyq7_Vabiu0RH6eb5gR5m2MiktR--gJAY&s=10" alt="RPA UC FACYT Logo" width="300"/>
 
   # Taller de RPA: Sistema de Tracking por Fechas
   **Universidad de Carabobo (UC) | FACYT**  
