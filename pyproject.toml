@@ -1,0 +1,19 @@
+[project]
+name = "taller-rpm-uc"
+version = "0.1.0"
+description = "taller de rpm automatizacion SI"
+authors = [
+    {name = "Dervis Martinez",email = "damm123456789dervis@gmail.com"},
+]
+dependencies = ["pandas>=3.0.5", "python-dotenv>=1.2.2"]
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+
+[tool.pdm]
+distribution = true
